@@ -1,4 +1,4 @@
-function formatMessage(message,maxLength) {
+function formatMessage(message, maxLength) {
     if (message.length <= maxLength) {
         return message;
     }
